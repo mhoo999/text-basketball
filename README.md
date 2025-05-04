@@ -41,6 +41,10 @@
 - **프론트엔드**: React.js, TypeScript, 반응형 디자인
 - **백엔드**: Node.js, Express.js, WebSocket, OpenAI GPT API
 - **DB**: MongoDB (사용자/팀/선수/경기/시즌 정보 관리)
+- **AI/자동화**:
+  - **Cursor**: AI 기반 코드 탐색 및 자동화, 개발 생산성 향상
+  - **Taskmaster**: AI 기반 태스크 관리 및 자동 분해, 개발 워크플로우 최적화
+  - **OpenAI GPT API**: 선수 능력치 분석, 경기 해설 등 자연어 처리
 
 ### 데이터 모델
 - 사용자: 프로필, 게임 기록, 시즌 통계
